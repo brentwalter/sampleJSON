@@ -1,4 +1,4 @@
-var blocks = [
+[
   {
     titleIcon: "https://upthere.com/media/cameraIcon-1.png",
     title: "Upthere Camera",
@@ -23,4 +23,4 @@ var blocks = [
     ],
     footerImage: "https://upthere.com/media/CameraAppScreenshot.jpg"
   }
-];
+]
