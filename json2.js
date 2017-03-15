@@ -29,11 +29,6 @@
         "image": "https://upthere.com/media/camera-integrate.gif",
         "headline": "Direct to the cloud",
         "summary": "Upthere Camera captures every photo directly to the cloud, circumventing the space limitations of your phone. So take as many photos as you'd like!"
-      },
-      {
-        "image": "https://upthere.com/media/home-1.gif",
-        "headline": "Unified in Upthere",
-        "summary": "All the photos you take with Upthere Camera go right to your unified photo collection in Upthere. These same photos are also accessible from Upthere Home."
       }
     ],
     "footerImage": "https://upthere.com/media/CameraAppScreenshot.jpg"
